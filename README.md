@@ -1,2 +1,2 @@
-# Data-Science----Python
-the Udemy course - Python for Data Science and Machine Learning BootCamp
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
